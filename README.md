@@ -1,2 +1,3 @@
-# Apple-Calendar-Prayer-Times
-Uses my local mosque's prayer times to create events on the calendar app.
+# Calendar-Prayer-Times
+
+Using prayer times from my local mosque; this application creates calendar events in order to have local prayer times organized with other daily activities.
