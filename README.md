@@ -28,8 +28,7 @@ Fetches prayer times from my local mosque and adds them to my google calendar.
 
 ## 🎥 Demo
 
-[Demo Video](./Demo/Calendar Prayer Times App Demo.mp4)  
-![Calendar Events](./Demo/Google Calendar Events.png)  
+[Demo Video](https://github.com/dan2017558/Calendar-Prayer-Times/blob/main/Demo/Calendar%20Prayer%20Times%20App%20Demo.mp4)  
 
 ## 💡 Next Steps
 
